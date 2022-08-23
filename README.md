@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lluis-fontbote
-- 👀 I’m interested in web development.
-- 🌱 Learning PHP (Laravel, Drupal and Wordpress), JS (vanilla and Vue) and Docker.
+- 👀 I’m a web developer.
+- 🌱 I mostly work with PHP (Laravel, Drupal and Wordpress) and JS (vanilla and Vue).
 - 📫 You can reach me on lluis.fontbote@outlook.com or on www.linkedin.com/in/lluis-fontbote
 .
 
